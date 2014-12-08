@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Witamy w fabryce klasyfikatorów!
+title: Fabryka Klasyfikatorów
 locale: pl_PL
-description: Strona ta jest poświęcona teorii i praktyce klasyfikacji oraz konstrukcji klasyfikatorów.
-logo: site-logo.png
+description: Teoria i praktyka.
+logo: works1.png
 search: true
 url: http://tmkmrcnk.github.io/klasyfikatory/ 
 
