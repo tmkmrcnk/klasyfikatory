@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Artykuły
+excerpt: "Archiwum artykułów posortowanych według daty."
 ---
 
 <ul class="post-list">
