@@ -9,15 +9,15 @@ image:
   creditlink: 
 ---
 
-Witamy w fabryce klasyfikator體. Strona ta jest poswiecona budowie i zastosowaniu klasyfikator體 do analizy danych w biznesie, badaniach naukowych oraz codzinnym zyciu.
+Witamy w fabryce klasyfikator贸w. Strona ta jest po艣wi臋cona budowie i zastosowaniu klasyfikator贸w do analizy danych w biznesie, badaniach naukowych oraz codziennym 偶yciu.
 
-## Znajdziecie tu informacje i artykuly na nastepujace tematy:
+## Znajdziecie tu informacje i artyku艂y na nastepuj膮ce tematy:
 
 * Czym jest klasyfikacja?
-* Jakie sa praktyczne zastosowania klasyfikacji?
-* Jakie dzialaja klasyfikatory?
-* Jak sformulowac dowolny problem decyzyjny jako klasyfikacje.
-* Implementacja klasyfikator體.
+* Jakie s膮 praktyczne zastosowania klasyfikacji?
+* Jak dzia艂aj膮 klasyfikatory?
+* Jak sformu艂owa膰 dowolny problem decyzyjny jako klasyfikacj臋.
+* Implementacja klasyfikator贸w.
 * Sztuczna inteligencja i uczenie maszyn.
-* Oferta budowy klasyfikator體.
+* Oferta budowy klasyfikator贸w.
 
