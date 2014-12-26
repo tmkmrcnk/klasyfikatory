@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O Stronie
+title: O Klasyfikatorach
 excerpt: "Strona ta jest poswiecona budowie i zastosowaniu klasyfikatorow"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
@@ -9,13 +9,15 @@ image:
   creditlink: 
 ---
 
-Witamy w fabryce klasyfikatorow. Strona ta jest poswiecona budowie i zastosowaniu klasyfikatorow w biznesie, badaniach naukowych oraz codzinnym zyciu.
+Witamy w fabryce klasyfikatorów. Strona ta jest poswiecona budowie i zastosowaniu klasyfikatorów do analizy danych w biznesie, badaniach naukowych oraz codzinnym zyciu.
 
 ## Znajdziecie tu informacje i artykuly na nastepujace tematy:
 
 * Czym jest klasyfikacja?
-* Jakie dzialaja klasyfikatory i jakie sa popularnie i sprawdzone metody klasyfikacji?
 * Jakie sa praktyczne zastosowania klasyfikacji?
+* Jakie dzialaja klasyfikatory?
+* Jak sformulowac dowolny problem decyzyjny jako klasyfikacje.
+* Implementacja klasyfikatorów.
 * Sztuczna inteligencja i uczenie maszyn.
-* Implementacja klasyfikatorow.
-* Oferta budowy klasyfikatorow dla roznych potrzeb i zastosowan.
+* Oferta budowy klasyfikatorów.
+
