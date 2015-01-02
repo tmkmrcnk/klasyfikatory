@@ -19,11 +19,11 @@ Klasyfikacja polega na przypisaniu danej rzeczy do wcześniej ustalonej klasy b�
 
 ## Przykłady klasyfikacji
 
-Klasyfikować możemy tez rzeczy niematerialne, np. wydażenia lub sytuacje. Typowe stwierdzenia takie jak źle sie czuję, jestem w świetnej formie, jestem zmęczony, wydają się opisywać nasz faktyczny stan, tak na prawdę wyrażają jedynie naszą czesto subiektywną klasyfikację tego stanu. 
+Klasyfikować możemy tez rzeczy niematerialne, np. wydarzenia lub sytuacje. Typowe stwierdzenia takie jak źle sie czuję, jestem w świetnej formie, jestem zmęczony, wydają się opisywać nasz faktyczny stan, tak na prawdę wyrażają jedynie naszą często subiektywną klasyfikację tego stanu. 
 
 Analizując symptomy takie jak katar i kaszel stwierdzamy u siebie przeziębienie, z kolei wysoką temperaturę możemy sklasyfikować jako objaw grypy itd. Klasyfikacji choroby dokonuje też lekarz i nawet samo stwierdzenie czy pacjent jest chory lub nie jest przykładem klasyfikacji. Wynik takiej klasyfikacji oczywiście może być błędny. 
 
-Klasyfikacji używamy również do rozpoznawania znanych nam przedmiotów np. samochodu sąsiada na parkingu, okładki książki, bądź też typów przedmiotów, np. marki samochodu, rasy psa, itd. Widząc przelotnie twarz bądź tez sylwetkę, przypisujemy ją do znanej nam osoby lub też klasyfikujemy ją jako osobę nieznaną. 
+Klasyfikacji używamy również do rozpoznawania znanych nam przedmiotów np. samochodu sąsiada na parkingu, okładki książki, bądź też typów przedmiotów, np. marki samochodu, rasy psa, itd. Widząc przelotnie twarz bądź tez sylwetkę, przypisujemy ją do znanej nam osoby lub też klasyfikujemy jako osobę nieznaną. 
 
 Bardzo często klasyfikujemy równiez sytuacje w których sie znajdujemy, np. stan zagrożenia, nasze stosunki z szefem, lub też stan naszych finansów. Czytając artykuł w gazecie często klasyfikujemy wyrażane w nim poglądy jako np. lewicowe lub prawicowe, lub też zgodne lub sprzeczne z naszymi. Z kolei sluchając wypowiedzi nieznanego nam polityka, potrafimy zaklasyfikowac go, na podstawie tego co mówi, do konkretnej partii. Często też klasyfikujemy taką wypowiedź jako madrą lub glupią, przekonywujacą lub nie, itd.
 
