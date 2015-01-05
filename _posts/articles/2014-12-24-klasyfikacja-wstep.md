@@ -55,12 +55,5 @@ Podstawowe trzy parametry które charakteryzują każdy klasyfikator to
 - przedmiot klasyfikacji, np. kolor, wraz  z listą klas (np. czarny, czerwony, zielony, nieznany),  oraz 
 - implementowany model, tj.. forma reprezentacji wiedzy o danej dziedzinie (kategorii) którą klasyfikator zawiera.
  
-### Teoria Klasyfikacji
- 
-### Uczenie Maszynowe
- 
-### Klasyfikacja, regresja, klastrowanie
- 
-### Klasyfikacja Tekstu
 
  
