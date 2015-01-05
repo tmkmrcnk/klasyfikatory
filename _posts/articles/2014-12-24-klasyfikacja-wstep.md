@@ -62,6 +62,3 @@ Podstawowe trzy parametry które charakteryzują każdy klasyfikator to:
 ### Klasyfikacja, regresja, klastrowanie
 
 ### Klasyfikacja Tekstu
-
-
- 
