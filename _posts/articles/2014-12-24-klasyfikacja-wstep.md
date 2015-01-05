@@ -15,9 +15,9 @@ image:
 
 ## Czym jest klasyfikacja?
  
-Klasyfikacja polega na przypisaniu danej rzeczy do wczesniej ustalonej klasy badz tez kategorii. Rzeczy które klasyfikujemy moga byc bardzo konkretne, tak jak fizyczne przedmioty badz tez abstrakcyjne, np. mysli, uczucia. Na przyklad szczekajace i biegajace po parku zwierze mozemy sklasyfikowac jako psa, a czerwony przedmiot wiszacy na drzewie jako jablko. Oczywiscie wczesniej musimy sklasyfikowac drzewo jako drzewo. 
+Klasyfikacja polega na przypisaniu danej rzeczy do wczesniej ustalonej klasy badz tez kategorii. Rzeczy które klasyfikujemy moga byc bardzo konkretne, tak jak fizyczne przedmioty badz tez abstrakcyjne, np. mysli, uczucia. Na przyklad szczekajace i biegajace po parku zwierze mozemy sklasyfikowac jako *psa*, a czerwony przedmiot wiszacy na drzewie jako *jablko*. Oczywiscie wczesniej musimy sklasyfikowac drzewo jako *drzewo*. 
  
-Klasyfikowac mozemy tez rzeczy niematerialne, np. wydarzenia lub sytuacje. Typowe stwierdzenia takie jak zle sie czuje, jestem w swietnej formie, jestem zmeczony, wydaja sie opisywac nasz faktyczny stan, tak na prawde wyrazaja jedynie nasza czesto subiektywna klasyfikacje tego stanu. 
+Klasyfikowac mozemy tez rzeczy niematerialne, np. wydarzenia lub sytuacje. Typowe stwierdzenia takie jak *zle sie czuje*, *jestem w swietnej formie*, *jestem zmeczony*, wydaja sie opisywac nasz faktyczny stan, tak na prawde wyrazaja jedynie nasza czesto subiektywna klasyfikacje tego stanu. 
  
 ## Klasyfikacja jako funkcja biologiczna
 
@@ -33,11 +33,11 @@ Bardzo czesto klasyfikujemy równiez sytuacje w których sie znajdujemy, np. stan 
  
 ## Niepewnosc w klasyfikacji
  
-Wiekszosc klasyfikacji, których dokonujemy jest obarczona pewnym stopniem niepewnosci: chyba znów sie spóznie do pracy, czy ta kobieta to nie jest przypadkiem Joanna? Czesto tez przypisujemy niepewnemu wynikowi klasyfikacji wartosc prawdopodobienstwa, np. na 50% bedzie dzis padac, na 90% wygra Bayern, rzadko jednak wartosci te wynikaja z rzeczywistych obliczen lub szacunków. 
+Wiekszosc klasyfikacji, których dokonujemy jest obarczona pewnym stopniem niepewnosci: *chyba znów sie spóznie do pracy*, *ta kobieta to chyba jest Joanna*. Czesto tez przypisujemy niepewnemu wynikowi klasyfikacji wartosc prawdopodobienstwa, np. *na 50% bedzie dzis padac*, na *90% wygra Bayern*. W potocznym uzyciu wartosci te rzadko wynikaja jednak z rzeczywistych obliczen lub szacunków. 
  
 ## Klasyfikacje binarne i wielowartosciowe
  
-Klasyfikacje moga byc binarne (tj. dwuwartosciowe), np. bedzie ladna pogoda, to nie jest mój rower, badz tez wielowartosciowe: to na pewno jest dzieciol czarny. Kazda klasyfikacje wielowartosciowa mozna zamienic na zbiór klasyfikacji binarnych. Na przyklad rozpoznajac marke samochodu, mozemy zamienic (wielowartosciowe) pytanie: Czy to jest fiat, czy opel, czy mercedes, itd., na szereg pytan: czy to jest fiat czy nie, czy to jest opel, czy nie, czy to jest mercedes czy nie, itd. Takie przeformulowanie problemu jest czesto stosowane w praktyce, gdy do klasyfikacji uzywamy komputera z odpowiednim oprogramowaniem (o tym pózniej).
+Klasyfikacje moga byc binarne (tj. dwuwartosciowe), np. *bedzie ladna pogoda*, *to nie jest mój rower*, badz tez wielowartosciowe: *ten ptak to dzieciol czarny*. Kazda klasyfikacje wielowartosciowa mozna zamienic na zbiór klasyfikacji binarnych. Na przyklad rozpoznajac marke samochodu, mozemy zamienic (wielowartosciowe) pytanie: *czy to jest fiat, czy opel, czy mercedes, itd.*, na szereg pytan: *czy to jest fiat czy nie*, *czy to jest opel, czy nie*, *czy to jest mercedes czy nie, itd.* Takie przeformulowanie problemu jest czesto stosowane w praktyce, gdy do klasyfikacji uzywamy komputera z odpowiednim oprogramowaniem.
  
 ## Klasyfikacja w analityce biznesowej
  
