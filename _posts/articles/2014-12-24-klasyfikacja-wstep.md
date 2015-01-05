@@ -38,3 +38,29 @@ Większość klasyfikacji, których dokonujemy jest obarczona pewnym stopniem ni
 ### Klasyfikacje binarne i wielowartościowe
  
 Klasyfikacje mogą być binarne (tj. dwuwartościowe), np. *będzie ładna pogoda*, *to nie jest mój rower*, bądź też wielowartościowe: *ten ptak to dzięcioł czarny*. Każdą klasyfikację wielowartościową można zamienić na zbiór klasyfikacji binarnych. Na przykład rozpoznając markę samochodu, możemy zamienić (wielowartościowe) pytanie: *czy to jest fiat, czy opel, czy mercedes, itd.?*, na szereg pytań: *czy to jest fiat czy nie?*, *czy to jest opel, czy nie?*, *czy to jest mercedes czy nie?, itd. Takie przeformułowanie problemu jest często stosowane w praktyce, gdy do klasyfikacji używamy komputera z odpowiednim oprogramowaniem.
+
+### Klasyfikacja w analityce biznesowej
+ 
+Klasyfikacja jest podstawowym narzędziem do analizy danych w analityce biznesowej. Decyzje czy zwiększać inwestycje czy nie, ocena inwestycji, przewidywanie czy dany produkt odniesie sukces, szacunek kursu akcji w kolejnym dniu, szacunek zysków, ocena przyszłego partnera, przewidywanie czy cena ropy spadnie czy pójdzie w górę itd. są problemami klasyfikacji. Klasyfikacje te mogą się opierać na danych publicznie dostępnych, np. raportach spólek giełdowych, publicznych wypowiedziach prezesów, itd., bądź też prywatnych danych należących do danej firmy.
+ 
+Klasyfikacji stosuje się również do analizy stanu technicznego urządzeń, przewidywania kiedy się zepsują, kiedy powinny być serwisowane, itd. Często przedmiotem klasyfikacji jest też ogólny stan zagrożenia, aktualny lub przyszły. Na przykład przewidywanie ataku terrorystycznego jest klasyfikacją.
+ 
+### Czym jest klasyfikator?
+ 
+Klasyfikator można zdefiniować jako maszynę, która dokonuje klasyfikacji.  Do maszyny tej wrzucamy opis przedmiotu, a po chwili wypluwa ona jego klasę z określonym stopniem pewności. Takim klasyfikatorem jest m.in. nasz mózg. 
+ 
+Podstawowe trzy parametry które charakteryzują każdy klasyfikator to 
+ 
+1. sposób opisu przedmiotu, tzn. jakie dane są uwzględniane w klasyfikacji i jak są one przedstawione,
+2. przedmiot klasyfikacji, np. kolor, wraz  z listą klas (np. czarny, czerwony, zielony, nieznany),  oraz 
+3. implementowany model, tj.. forma reprezentacji wiedzy o danej dziedzinie (kategorii) którą klasyfikator zawiera.
+ 
+### Teoria Klasyfikacji
+ 
+### Uczenie Maszynowe
+ 
+### Klasyfikacja, regresja, klastrowanie
+ 
+### Klasyfikacja Tekstu
+
+ 
