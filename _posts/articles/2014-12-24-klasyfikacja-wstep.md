@@ -51,9 +51,9 @@ Klasyfikator można zdefiniować jako maszynę, która dokonuje klasyfikacji.  D
  
 Podstawowe trzy parametry które charakteryzują każdy klasyfikator to 
  
-1. sposób opisu przedmiotu, tzn. jakie dane są uwzględniane w klasyfikacji i jak są one przedstawione,
-2. przedmiot klasyfikacji, np. kolor, wraz  z listą klas (np. czarny, czerwony, zielony, nieznany),  oraz 
-3. implementowany model, tj.. forma reprezentacji wiedzy o danej dziedzinie (kategorii) którą klasyfikator zawiera.
+1. sposób opisu przedmiotu, tzn. jakie dane są uwzględniane w klasyfikacji i jaka jest ich reprezentacja (tzn. jak są one przedstawione),
+- przedmiot klasyfikacji, np. kolor, wraz  z listą klas (np. czarny, czerwony, zielony, nieznany),  oraz 
+- implementowany model, tj.. forma reprezentacji wiedzy o danej dziedzinie (kategorii) którą klasyfikator zawiera.
  
 ### Teoria Klasyfikacji
  
