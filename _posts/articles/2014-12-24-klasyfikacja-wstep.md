@@ -21,7 +21,11 @@ Klasyfikować możemy tez rzeczy niematerialne, np. wydarzenia lub sytuacje. Typ
 
 ### Klasyfikacja jako funkcja biologiczna
 
-Klasyfikacja jest podstawową funkcją wszystkich żywych organizmów. Każde stworzenie klasyfikuje otaczające je przedmioty,  jako stanowiące zagrożenie, nadające się na pożywienie, znane lub nie, etc. Klasyfikacji poddawane są również inne organizmy żywe, czy należą do tego samego gatunku, czy są przyjazne czy wrogie, etc. Klasyfikacją jest również wybór kierunku i prędkości ruchu, ocena sytuacji - bezpieczna vs. niebezpieczna, etc. Klasyfikacja jest więc bezpośrednim wynikiem naszych podstawowych funkcji biologicznych: percepcji, zdolności do przemieszczania się i manipulowania innymi przedmiotami.
+Klasyfikacja jest podstawową funkcją wszystkich żywych organizmów. Każde stworzenie klasyfikuje otaczające je przedmioty,  jako stanowiące zagrożenie, nadające się na pożywienie, znane lub nie, etc. Klasyfikacji poddawane są również inne organizmy żywe, czy należą do tego samego gatunku, czy są przyjazne czy wrogie, etc.
+
+Klasyfikacją jest również wybór kierunku i prędkości ruchu, ocena sytuacji - bezpieczna vs. niebezpieczna, etc. Klasyfikacja jest więc bezpośrednim wynikiem naszych podstawowych funkcji biologicznych: percepcji, zdolności do przemieszczania się i manipulowania innymi przedmiotami.
+
+Sama percepcja jest również oparta na klasyfikacji ciągłych sygnałów dostarczanych przez zmysły do mózgu. Klasyfikację stanowią tak podstawowe operacje jak izolowanie pojedynczych przedmiotów z tła, np. ludzi na ulicy, drzew w lesie, rozpoznawanie kolorów, rozpoznawanie dźwięków jako mowy, muzyki, etc.
 
 ### Klasyfikacja  w codziennym życiu
 
@@ -52,10 +56,16 @@ Klasyfikator można zdefiniować jako maszynę, która dokonuje klasyfikacji.  D
 Podstawowe trzy parametry które charakteryzują każdy klasyfikator to:
 
 1. sposób opisu przedmiotu, tzn. jakie dane są uwzględniane w klasyfikacji i jaka jest ich reprezentacja (tzn. jak są one przedstawione),
-+ przedmiot klasyfikacji, np. kolor, wraz  z listą klas (np. czarny, czerwony, zielony, nieznany), oraz
-+ implementowany model, tj. forma reprezentacji wiedzy o danej dziedzinie (kategorii) którą klasyfikator zawiera.
+2. przedmiot klasyfikacji, np. kolor, wraz  z listą klas (np. czarny, czerwony, zielony, nieznany), oraz
+3. implementowany model, tj. forma reprezentacji wiedzy o danej dziedzinie (kategorii) którą klasyfikator zawiera.
 
 ### Teoria Klasyfikacji
+
+Początki teorii klasyfikacji sięgają prac Platona i Arystotelesa. Platon postulował grupowanie przedmiotów według łączących ich cech. Arystoteles rozwinął pomysł izolowania cech przedmiotów i zbudował na jego podstawie tzw. *klasyczną teorię kategoryzacji*. 
+
+Model kategoryzacji Arystotelesa zakłada rozróżnienie pomiędzy cechami istotnymi, stanowiącymi *esencję* przedmiotu (z punktu widzenia jego kategoryzacji) oraz cechami pobocznymi, *przypadkowymi*, które nie mają wpływu na jego przynależność do konkretnej kategorii. Według tej teorii, istotnymi cechami bycia człowiekiem jest bycie *zwierzęciem dwunożnym*.  Dla kategorii *człowiek*, te dwie cechy, *bycie zwierzęciem* i *dwunożność* są więc istotne, a cechy inne, np. *wzrost* czy *kolor skóry* są poboczne. 
+
+Model kategoryzacji Arystotelesa zakłada dalej, że kategorie są ściśle określone poprzez zbiór *koniecznych i wystarczających* cech. Każda cecha jest binarna (dwuwartościowa), tzn. występuje lub nie. Konsekwencją tego jest, że kategorie mają jasno określone granice, oraz że przynależność do nich jest również binarna. Kolejnym założeniem teorii klasycznej jest, że ponieważ wszystkie przedmioty należące do danej klasy posiadają ten sam zbiór koniecznych i wystarczających cech, każdy z nich ma ten sam status, jest tak samo dobrym przykładem tej klasy.
 
 ### Uczenie Maszynowe
 
